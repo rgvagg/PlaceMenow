@@ -1,0 +1,40 @@
+/* CSS Document */
+/*html {height:100%; width:100%;}
+*/
+body{ margin:0; padding:0; border:0; height:740px; width:1350px;
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; line-height:15px; background:#EEE4b9;
+}
+
+img{ border:none;}
+
+a{ color:#8d0d19;}
+
+a:hover {color:#1a446c;}
+
+#all { height:100%; width:100%}/**/
+
+ #header {height:70px; 
+text-align:left; background:#1a446c; color:#d4e6f4;
+} 
+ #header h1{padding:1em; margin:0;}
+ 
+ #main{ float:left; height:600px; width:100%; margin:0; padding:0; background:#eee4b9;}
+ #footer{ float:left; width:100%;
+ clear:both; height:70px; margin:0;
+ text-align:center; background:#1a446c; color:#d4E6f4;}
+ 
+ #navigation {float:left; width:150px; height:100%; margin:0; padding: 0 2em; color:#d4e6f4; background:#8d0d19;}
+ 
+ #navigation a {color:#def4; text-decoration:none}
+ #navigation a:hover{color:#ffffff;}
+ ul.subjects{ margin:em ; padding-left: 0; list-style:none;}
+ ul.pages{padding-left:2em; list-style:square; }
+ .selected {font-weight:bold;}
+ 
+ #page{
+ float:left; height:100%;
+ padding-left: 2em; vertical-align:top; background:#eee4b9;}
+ 
+ #page h2 { color:8d0d19; margin-top:1em;}
+ #page h3 {color:8d0d19;}
+ 
